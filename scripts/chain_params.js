@@ -50,7 +50,7 @@ export const cChainParams = reactive({
         proposalFee: 50 * COIN,
         proposalFeeConfirmRequirement: 6,
         maxPaymentCycles: 6,
-        maxPayment: 10 * 43200 * COIN, // 43200 blocks of 10 NBLA
+        maxPayment: 4.34 * 43200 * COIN, // 43200 blocks of 10 NBLA
         defaultColdStakingAddress: 'ZNTdtWE7ZHEvQwLCpFzqF79uQeoVxtRLTW', // NBLA Cold Pool
     },
     testnet: {
